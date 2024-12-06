@@ -1,7 +1,7 @@
 # React: The Complete Guide Course
 
 ## Course Overview
-Welcome to the repository for "React: The Complete Guide", a comprehensive 68-hour course available on Udemy. This repository contains the source code for both tutorial projects and individual practice projects covered throughout the course. Each section focuses on different aspects of React development.
+Welcome to the repository for "React: The Complete Guide", a comprehensive 71-hour course available on Udemy. This repository contains the source code for both tutorial projects and individual practice projects covered throughout the course. Each section focuses on different aspects of React development.
 
 ---------------------------------------
 
