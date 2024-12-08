@@ -43,8 +43,7 @@ The course covers a comprehensive range of topics essential such as:
 
 ---------------------------------------
 
-## Getting Started
-Instructions on how to get the project setup and running on your local machine.
+## Instructions on how to get the project setup and running on your local machine:
 
 ### Clone the repository:
 git clone https://github.com/riad-mammadov/React-The-Complete-Guide-Course
